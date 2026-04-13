@@ -1,10 +1,3 @@
-<h2>Screenshots</h2>
-<table>
-  <tr>
-    <td><img src='screenshot1.png' width='200' /></td>
-    <td><img src='screenshot2.png' width='200' /></td>
-    <td><img src='screenshot3.png' width='200' /></td>
-    <td><img src='screenshot4.png' width='200' /></td>
-    <td><img src='screenshot5.png' width='200' /></td>
-  </tr>
-</table>
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 | Screenshot 5 |
+|--------------|--------------|--------------|--------------|--------------|
+| ![Diary Screen](assets/screenshots/diary_screen.png){: width="160px"} | ![Edit Task Page](assets/screenshots/edit_task_page.png){: width="160px"} | ![Gratitude](assets/screenshots/gratitudeJ.png){: width="160px"} | ![Home Screen](assets/screenshots/home_screen.png){: width="160px"} | ![Stats Screen](assets/screenshots/stats_screen.png){: width="160px"} |
