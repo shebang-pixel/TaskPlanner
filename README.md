@@ -1,26 +1,24 @@
 # Task Planner
 
-## Project Documentation
+## Screenshots
 
-### Features
-- Simple and intuitive interface
-- Create, update and delete tasks
-- Set due dates and reminders
-- Organize tasks by categories
+### Diary Screen
+![Diary Screen](assets/screenshots/diary_screen.png)
 
-### How The App Works
-The Task Planner allows users to efficiently manage their tasks and deadlines. Users can create tasks, assign them due dates, and categorize them for better organization. The app sends reminders accordingly to ensure tasks are completed on time.
+### Edit Task Page
+![Edit Task Page](assets/screenshots/edit_task_page.png)
 
-### Installation Instructions
-1. Clone the repository: `git clone https://github.com/shebang-pixel/TaskPlanner.git`
-2. Navigate to the project directory: `cd TaskPlanner`
-3. Install dependencies: `npm install`
-4. Start the application: `npm start`
+### Gratitude Journal
+![Gratitude Journal](assets/screenshots/gratitudeJ.png)
 
-### Screenshots
-![Task Planner Screenshot](./screenshots/sample_screenshot.png)  
-*Insert additional screenshots here if available.*  
+### Home Screen
+![Home Screen](assets/screenshots/home_screen.png)
+
+### Stats Screen
+![Stats Screen](assets/screenshots/stats_screen.png)
+
+This README provides an overview of the Task Planner project and includes screenshots for reference.
 
 ---
 
-For any issues or contributions, please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
+*Updated on 2026-04-13 06:12:18 UTC*
